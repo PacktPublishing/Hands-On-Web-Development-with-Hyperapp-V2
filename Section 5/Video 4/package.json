@@ -1,0 +1,16 @@
+{
+  "name": "hyperapp-custom-routers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "run-hash": "parcel hash-router/index.html",
+    "run-pushState": "parcel pushState-router/index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  },
+  "dependencies": {
+    "hyperapp": "^2.0.0-beta.12"
+  }
+}

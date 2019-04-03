@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FuzzyTime matches snapshot 1`] = `
+Object {
+  "children": Array [
+    Object {
+      "children": Array [],
+      "key": null,
+      "name": "1 day(s) ago",
+      "node": undefined,
+      "props": Object {},
+      "type": 3,
+    },
+  ],
+  "key": undefined,
+  "name": "span",
+  "node": null,
+  "props": Object {
+    "title": "1970-01-01T00:00:00.000Z",
+  },
+  "type": undefined,
+}
+`;

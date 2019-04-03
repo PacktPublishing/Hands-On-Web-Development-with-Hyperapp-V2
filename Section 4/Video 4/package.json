@@ -1,0 +1,18 @@
+{
+  "name": "hypernewsS4V4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "servor src",
+    "test:e2e": "cypress open",
+    "test:unit": "jest src/*.spec.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "cypress": "^3.2.0",
+    "jest": "^24.7.1",
+    "servor": "^2.0.3"
+  }
+}

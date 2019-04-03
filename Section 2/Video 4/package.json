@@ -1,0 +1,14 @@
+{
+  "name": "hypernewsS2V4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "servor src",
+    "test:e2e": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^3.2.0",
+    "servor": "^2.0.3"
+  }
+}

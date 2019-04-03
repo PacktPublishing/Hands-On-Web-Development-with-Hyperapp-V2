@@ -1,0 +1,9 @@
+{
+  "name": "hypernewsS2V3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx --quiet servor src > /dev/null 2>&1"
+  }
+}
